@@ -1,1 +1,1 @@
-web: python cities.pygit
+web: python cities.py
